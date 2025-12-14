@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,5 +16,480 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Archer_Cawston_Matheson_Geuskens_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=78429a60fc1f1e2edb9abf47c9c52015}{%
+           family={Archer},
+           familyi={A\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=737dceca475d97b2067f94ca9d1c4eaf}{%
+           family={Cawston},
+           familyi={C\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b661b685817e9a7b816d242ada9eb6f2}{%
+           family={Matheson},
+           familyi={M\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bac2cff4ce6a1c89c32dc4eed8db223}{%
+           family={Geuskens},
+           familyi={G\bibinitperiod},
+           given={Machteld},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e222cb35280d228b9c748beddcb30ca7}
+      \strng{fullhash}{073d71cc355990df67f5a66261a58734}
+      \strng{bibnamehash}{073d71cc355990df67f5a66261a58734}
+      \strng{authorbibnamehash}{073d71cc355990df67f5a66261a58734}
+      \strng{authornamehash}{e222cb35280d228b9c748beddcb30ca7}
+      \strng{authorfullhash}{073d71cc355990df67f5a66261a58734}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perspectives on Politics}
+      \field{number}{1}
+      \field{title}{Celebrity, Democracy, and Epistemic Power}
+      \field{volume}{18}
+      \field{year}{2020}
+      \field{pages}{27\bibrangedash 42}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1017/S1537592719002615
+      \endverb
+    \endentry
+    \entry{Bogomolny_Pythagorean}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4fa9cf6240e4e5e1fe79f9460087a90}{%
+           family={Bogomolny},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Cut-the-Knot}%
+      }
+      \strng{namehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{fullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{bibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{authorbibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{authornamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{authorfullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pythagorean Theorem}
+      \field{urlday}{5}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cut-the-knot.org/pythagoras/index.shtml
+      \endverb
+      \verb{url}
+      \verb https://www.cut-the-knot.org/pythagoras/index.shtml
+      \endverb
+    \endentry
+    \entry{HannaGila1989}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={Gila},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{fullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{bibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{authorbibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{authornamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{authorfullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 13th Conference of the International Group for the Psychology of Mathematics Education}
+      \field{month}{01}
+      \field{title}{Proofs that prove and proofs that explain}
+      \field{volume}{2}
+      \field{year}{1989}
+      \field{pages}{45\bibrangedash 51}
+      \range{pages}{7}
+    \endentry
+    \entry{Mizrahi2020-MIZPEA}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf30326782ded4cf34d23fb67e9ed4a4}{%
+           family={Mizrahi},
+           familyi={M\bibinitperiod},
+           given={Moti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{fullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{bibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{authorbibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{authornamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{authorfullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal for General Philosophy of Science / Zeitschrift für Allgemeine Wissenschaftstheorie}
+      \field{number}{4}
+      \field{title}{Proof, Explanation, and Justification in Mathematical Practice}
+      \field{volume}{51}
+      \field{year}{2020}
+      \field{pages}{551\bibrangedash 568}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s10838-020-09521-7
+      \endverb
+    \endentry
+    \entry{nelsen1993proofs}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3832d6cfc8f1202a937a3bbdf8b50e5f}{%
+           family={Nelsen},
+           familyi={N\bibinitperiod},
+           given={R.B.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mathematical Association of America}%
+      }
+      \strng{namehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{fullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{bibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{authorbibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{authornamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{authorfullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780883857007}
+      \field{series}{Classroom resource materials}
+      \field{title}{Proofs Without Words: Exercises in Visual Thinking}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=Kx2cjyzTIYkC
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=Kx2cjyzTIYkC
+      \endverb
+    \endentry
+    \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=96cc5d3c0e9267bbbe856a1973dd9c97}{%
+           family={Wrong},
+           familyi={W\bibinitperiod},
+           given={Dennis\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{fullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{bibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{authorbibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{authornamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{authorfullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To define power relations as completely asymmetrical is to overlook intercursive power relations in which actors control others in some scopes and are controlled by them in other scopes. In integral power relations, the power holder retains an irreducible authonomy, but his power can be negatively limited in various ways. Power is a narrower concept than social control. It should be limited to intended and successful control of others, although such international control clearly permits greater unintended control as well. When power is defined as a "capacity," it may be either actual or potential. Potential power, however, is not the same thing as merely possible power, which in the case of groups requires social mobilization to become both actual and potential.}
+      \field{issn}{00029602, 15375390}
+      \field{journaltitle}{American Journal of Sociology}
+      \field{number}{6}
+      \field{title}{Some Problems in Defining Social Power}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{73}
+      \field{year}{1968}
+      \field{urldateera}{ce}
+      \field{pages}{673\bibrangedash 681}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2775773
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2775773
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Archer_Cawston_Matheson_Geuskens_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=78429a60fc1f1e2edb9abf47c9c52015}{%
+           family={Archer},
+           familyi={A\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=737dceca475d97b2067f94ca9d1c4eaf}{%
+           family={Cawston},
+           familyi={C\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b661b685817e9a7b816d242ada9eb6f2}{%
+           family={Matheson},
+           familyi={M\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bac2cff4ce6a1c89c32dc4eed8db223}{%
+           family={Geuskens},
+           familyi={G\bibinitperiod},
+           given={Machteld},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e222cb35280d228b9c748beddcb30ca7}
+      \strng{fullhash}{073d71cc355990df67f5a66261a58734}
+      \strng{bibnamehash}{073d71cc355990df67f5a66261a58734}
+      \strng{authorbibnamehash}{073d71cc355990df67f5a66261a58734}
+      \strng{authornamehash}{e222cb35280d228b9c748beddcb30ca7}
+      \strng{authorfullhash}{073d71cc355990df67f5a66261a58734}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perspectives on Politics}
+      \field{number}{1}
+      \field{title}{Celebrity, Democracy, and Epistemic Power}
+      \field{volume}{18}
+      \field{year}{2020}
+      \field{pages}{27\bibrangedash 42}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1017/S1537592719002615
+      \endverb
+    \endentry
+    \entry{Bogomolny_Pythagorean}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4fa9cf6240e4e5e1fe79f9460087a90}{%
+           family={Bogomolny},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Cut-the-Knot}%
+      }
+      \strng{namehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{fullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{bibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{authorbibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{authornamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \strng{authorfullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pythagorean Theorem}
+      \field{urlday}{5}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cut-the-knot.org/pythagoras/index.shtml
+      \endverb
+      \verb{url}
+      \verb https://www.cut-the-knot.org/pythagoras/index.shtml
+      \endverb
+    \endentry
+    \entry{HannaGila1989}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={Gila},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{fullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{bibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{authorbibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{authornamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \strng{authorfullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 13th Conference of the International Group for the Psychology of Mathematics Education}
+      \field{month}{01}
+      \field{title}{Proofs that prove and proofs that explain}
+      \field{volume}{2}
+      \field{year}{1989}
+      \field{pages}{45\bibrangedash 51}
+      \range{pages}{7}
+    \endentry
+    \entry{Mizrahi2020-MIZPEA}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf30326782ded4cf34d23fb67e9ed4a4}{%
+           family={Mizrahi},
+           familyi={M\bibinitperiod},
+           given={Moti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{fullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{bibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{authorbibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{authornamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \strng{authorfullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal for General Philosophy of Science / Zeitschrift für Allgemeine Wissenschaftstheorie}
+      \field{number}{4}
+      \field{title}{Proof, Explanation, and Justification in Mathematical Practice}
+      \field{volume}{51}
+      \field{year}{2020}
+      \field{pages}{551\bibrangedash 568}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s10838-020-09521-7
+      \endverb
+    \endentry
+    \entry{nelsen1993proofs}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3832d6cfc8f1202a937a3bbdf8b50e5f}{%
+           family={Nelsen},
+           familyi={N\bibinitperiod},
+           given={R.B.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mathematical Association of America}%
+      }
+      \strng{namehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{fullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{bibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{authorbibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{authornamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \strng{authorfullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780883857007}
+      \field{series}{Classroom resource materials}
+      \field{title}{Proofs Without Words: Exercises in Visual Thinking}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=Kx2cjyzTIYkC
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=Kx2cjyzTIYkC
+      \endverb
+    \endentry
+    \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=96cc5d3c0e9267bbbe856a1973dd9c97}{%
+           family={Wrong},
+           familyi={W\bibinitperiod},
+           given={Dennis\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{fullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{bibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{authorbibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{authornamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \strng{authorfullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To define power relations as completely asymmetrical is to overlook intercursive power relations in which actors control others in some scopes and are controlled by them in other scopes. In integral power relations, the power holder retains an irreducible authonomy, but his power can be negatively limited in various ways. Power is a narrower concept than social control. It should be limited to intended and successful control of others, although such international control clearly permits greater unintended control as well. When power is defined as a "capacity," it may be either actual or potential. Potential power, however, is not the same thing as merely possible power, which in the case of groups requires social mobilization to become both actual and potential.}
+      \field{issn}{00029602, 15375390}
+      \field{journaltitle}{American Journal of Sociology}
+      \field{number}{6}
+      \field{title}{Some Problems in Defining Social Power}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{73}
+      \field{year}{1968}
+      \field{urldateera}{ce}
+      \field{pages}{673\bibrangedash 681}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2775773
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2775773
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
