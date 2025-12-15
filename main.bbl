@@ -106,6 +106,45 @@
       \verb https://www.cut-the-knot.org/pythagoras/index.shtml
       \endverb
     \endentry
+    \entry{Boston_FLT_2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd9261be82fb2e26e6291ecc65fbf0db}{%
+           family={Boston},
+           familyi={B\bibinitperiod},
+           given={Nigel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Wisconsin--Madison}%
+      }
+      \strng{namehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{fullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{bibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{authorbibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{authornamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{authorfullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Lecture notes (book-length manuscript)}
+      \field{title}{The Proof of Fermat’s Last Theorem}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
+      \endverb
+    \endentry
     \entry{HannaGila1989}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
@@ -206,6 +245,81 @@
       \endverb
       \verb{url}
       \verb https://books.google.de/books?id=Kx2cjyzTIYkC
+      \endverb
+    \endentry
+    \entry{STYLIANOU2002303}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c77bbefab396b66fa8d1563207c5414d}{%
+           family={Stylianou},
+           familyi={S\bibinitperiod},
+           given={Despina\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{fullhash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{bibnamehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{authorbibnamehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{authornamehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{authorfullhash}{c77bbefab396b66fa8d1563207c5414d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study addresses one of the most frequently suggested strategies for solving problems in mathematics: drawing a diagram. Professional mathematicians were asked to solve problems and their use of the strategy of drawing diagrams as they attempted to find solutions to these problems was studied. Because particular attention was paid to the reasoning processes of mathematicians while they were actually developing their proofs, the study’s findings suggest ways in which experienced problem solvers used diagrams to perform specific subtasks of proof development, and how diagrams helped them complete the activities. In particular, the study suggests that mathematicians build the visual representation in steps which are clearly separated by a few moments, during which they attempt to analyze the visual representation with respect to the problem situation. This analysis consists of some well-structured processes which involve four types of actions: inferring additional consequences, elaborating on the new mathematical information, stating a new goal, and monitoring their problem-solving process.}
+      \field{issn}{0732-3123}
+      \field{journaltitle}{The Journal of Mathematical Behavior}
+      \field{number}{3}
+      \field{title}{On the interaction of visualization and analysis: the negotiation of a visual representation in expert problem solving}
+      \field{volume}{21}
+      \field{year}{2002}
+      \field{pages}{303\bibrangedash 317}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0732-3123(02)00131-1
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0732312302001311
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0732312302001311
+      \endverb
+      \keyw{Problem-solving strategies,Drawing,Diagrams,Expert performance,Visual representations,Proof,Reasoning}
+    \endentry
+    \entry{Cambridge_FLT_History}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a75d9e30e891abd776972c07c5ef5224}{%
+           family={{University of Cambridge}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{fullhash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{bibnamehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{authorbibnamehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{authornamehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{authorfullhash}{a75d9e30e891abd776972c07c5ef5224}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Faculty of Mathematics, University of Cambridge}
+      \field{title}{Fermat’s Last Theorem: From History to New Mathematics}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.maths.cam.ac.uk/features/fermats-last-theorem-history-new-mathematics
+      \endverb
+      \verb{url}
+      \verb https://www.maths.cam.ac.uk/features/fermats-last-theorem-history-new-mathematics
       \endverb
     \endentry
     \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}
@@ -342,6 +456,45 @@
       \verb https://www.cut-the-knot.org/pythagoras/index.shtml
       \endverb
     \endentry
+    \entry{Boston_FLT_2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd9261be82fb2e26e6291ecc65fbf0db}{%
+           family={Boston},
+           familyi={B\bibinitperiod},
+           given={Nigel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Wisconsin--Madison}%
+      }
+      \strng{namehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{fullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{bibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{authorbibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{authornamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \strng{authorfullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Lecture notes (book-length manuscript)}
+      \field{title}{The Proof of Fermat’s Last Theorem}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
+      \endverb
+    \endentry
     \entry{HannaGila1989}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
@@ -442,6 +595,81 @@
       \endverb
       \verb{url}
       \verb https://books.google.de/books?id=Kx2cjyzTIYkC
+      \endverb
+    \endentry
+    \entry{STYLIANOU2002303}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c77bbefab396b66fa8d1563207c5414d}{%
+           family={Stylianou},
+           familyi={S\bibinitperiod},
+           given={Despina\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{fullhash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{bibnamehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{authorbibnamehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{authornamehash}{c77bbefab396b66fa8d1563207c5414d}
+      \strng{authorfullhash}{c77bbefab396b66fa8d1563207c5414d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study addresses one of the most frequently suggested strategies for solving problems in mathematics: drawing a diagram. Professional mathematicians were asked to solve problems and their use of the strategy of drawing diagrams as they attempted to find solutions to these problems was studied. Because particular attention was paid to the reasoning processes of mathematicians while they were actually developing their proofs, the study’s findings suggest ways in which experienced problem solvers used diagrams to perform specific subtasks of proof development, and how diagrams helped them complete the activities. In particular, the study suggests that mathematicians build the visual representation in steps which are clearly separated by a few moments, during which they attempt to analyze the visual representation with respect to the problem situation. This analysis consists of some well-structured processes which involve four types of actions: inferring additional consequences, elaborating on the new mathematical information, stating a new goal, and monitoring their problem-solving process.}
+      \field{issn}{0732-3123}
+      \field{journaltitle}{The Journal of Mathematical Behavior}
+      \field{number}{3}
+      \field{title}{On the interaction of visualization and analysis: the negotiation of a visual representation in expert problem solving}
+      \field{volume}{21}
+      \field{year}{2002}
+      \field{pages}{303\bibrangedash 317}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0732-3123(02)00131-1
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0732312302001311
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0732312302001311
+      \endverb
+      \keyw{Problem-solving strategies,Drawing,Diagrams,Expert performance,Visual representations,Proof,Reasoning}
+    \endentry
+    \entry{Cambridge_FLT_History}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a75d9e30e891abd776972c07c5ef5224}{%
+           family={{University of Cambridge}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{fullhash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{bibnamehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{authorbibnamehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{authornamehash}{a75d9e30e891abd776972c07c5ef5224}
+      \strng{authorfullhash}{a75d9e30e891abd776972c07c5ef5224}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Faculty of Mathematics, University of Cambridge}
+      \field{title}{Fermat’s Last Theorem: From History to New Mathematics}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.maths.cam.ac.uk/features/fermats-last-theorem-history-new-mathematics
+      \endverb
+      \verb{url}
+      \verb https://www.maths.cam.ac.uk/features/fermats-last-theorem-history-new-mathematics
       \endverb
     \endentry
     \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}
