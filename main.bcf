@@ -3070,6 +3070,10 @@
     <bcf:citekey order="8" intorder="1">Boston_FLT_2003</bcf:citekey>
     <bcf:citekey order="9" intorder="1">STYLIANOU2002303</bcf:citekey>
     <bcf:citekey order="10" intorder="1">STYLIANOU2002303</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Tversky1985</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Teschendorf09102024</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">WuJohn2021RiskCommunication</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">Gigerenzer2007StatisticalLiteracy</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

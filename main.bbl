@@ -145,6 +145,67 @@
       \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
       \endverb
     \endentry
+    \entry{Gigerenzer2007StatisticalLiteracy}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b48d2c7ac3f28cdcd52b92c3c2953a61}{%
+           family={Gigerenzer},
+           familyi={G\bibinitperiod},
+           given={Gerd},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=315ba9b27bf95aa1b3df4d7621f0e43e}{%
+           family={Gaissmaier},
+           familyi={G\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=423a3057834b29182441d949a80badfc}{%
+           family={Kurz-Milcke},
+           familyi={K\bibinithyphendelim M\bibinitperiod},
+           given={Elke},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1bc76dfc943d50dc2a6047e45890273}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Lisa\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f7d636af1c2ff54653e471b38d5b2f1}{%
+           family={Woloshin},
+           familyi={W\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{bae818aef4d20cdc66421f4c43e1c95f}
+      \strng{fullhash}{b3419809e48b86eab32af8794328facf}
+      \strng{bibnamehash}{b3419809e48b86eab32af8794328facf}
+      \strng{authorbibnamehash}{b3419809e48b86eab32af8794328facf}
+      \strng{authornamehash}{bae818aef4d20cdc66421f4c43e1c95f}
+      \strng{authorfullhash}{b3419809e48b86eab32af8794328facf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1529-1006}
+      \field{journaltitle}{Psychological Science in the Public Interest}
+      \field{number}{2}
+      \field{title}{Helping Doctors and Patients Make Sense of Health Statistics}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{53\bibrangedash 96}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1111/j.1539-6053.2008.00033.x
+      \endverb
+    \endentry
     \entry{HannaGila1989}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
@@ -289,6 +350,112 @@
       \endverb
       \keyw{Problem-solving strategies,Drawing,Diagrams,Expert performance,Visual representations,Proof,Reasoning}
     \endentry
+    \entry{Teschendorf09102024}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e2c3882d3bfb01a9808d655b9b62427}{%
+           family={Teschendorf},
+           familyi={T\bibinitperiod},
+           given={Victoria\bibnamedelima Sophie},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{fullhash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{bibnamehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{authorbibnamehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{authornamehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{authorfullhash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journalism Practice}
+      \field{number}{0}
+      \field{title}{Understanding COVID-19 Media Framing: Comparative Insights from Germany, the US, and the UK During Omicron}
+      \field{volume}{0}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/17512786.2024.2412832
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/17512786.2024.2412832
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17512786.2024.2412832
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17512786.2024.2412832
+      \endverb
+    \endentry
+    \entry{Tversky1985}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7b5f682b09aad2603bba02704e0f6495}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{bibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorbibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authornamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{editorbibnamehash}{7b5f682b09aad2603bba02704e0f6495}
+      \strng{editornamehash}{7b5f682b09aad2603bba02704e0f6495}
+      \strng{editorfullhash}{7b5f682b09aad2603bba02704e0f6495}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Explanations and predictions of people's choices, in everyday life as well as in the social sciences, are often founded on the assumption of human rationality. The definition of rationality has been much debated, but there is general agreement that rational choices should satisfy some elementary requirements of consistency and coherence. In this chapter, we describe decision problems in which people systematically violate the requirements of consistency and coherence, and we trace these violations to the psychological principles that govern the perception of decision problems and the evaluation of options.}
+      \field{booktitle}{Behavioral Decision Making}
+      \field{isbn}{978-1-4613-2391-4}
+      \field{title}{The Framing of Decisions and the Psychology of Choice}
+      \field{year}{1985}
+      \field{pages}{25\bibrangedash 41}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-1-4613-2391-4_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4613-2391-4_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4613-2391-4_2
+      \endverb
+    \endentry
     \entry{Cambridge_FLT_History}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a75d9e30e891abd776972c07c5ef5224}{%
@@ -365,6 +532,47 @@
       \endverb
       \verb{url}
       \verb http://www.jstor.org/stable/2775773
+      \endverb
+    \endentry
+    \entry{WuJohn2021RiskCommunication}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a225a07f17aa20c0b77d283b39e82530}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Joseph\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87426dc0f0f901d944a3fcb1ed613c9d}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={Stephen\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{fullhash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{bibnamehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{authorbibnamehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{authornamehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{authorfullhash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0884-8734}
+      \field{journaltitle}{Journal of General Internal Medicine}
+      \field{note}{Editorial}
+      \field{number}{4}
+      \field{title}{The Ethics of COVID-19 Risk Communication}
+      \field{volume}{36}
+      \field{year}{2021}
+      \field{pages}{1092\bibrangedash 1093}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/s11606-021-06600-3
       \endverb
     \endentry
   \enddatalist
@@ -495,6 +703,67 @@
       \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
       \endverb
     \endentry
+    \entry{Gigerenzer2007StatisticalLiteracy}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b48d2c7ac3f28cdcd52b92c3c2953a61}{%
+           family={Gigerenzer},
+           familyi={G\bibinitperiod},
+           given={Gerd},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=315ba9b27bf95aa1b3df4d7621f0e43e}{%
+           family={Gaissmaier},
+           familyi={G\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=423a3057834b29182441d949a80badfc}{%
+           family={Kurz-Milcke},
+           familyi={K\bibinithyphendelim M\bibinitperiod},
+           given={Elke},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1bc76dfc943d50dc2a6047e45890273}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Lisa\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f7d636af1c2ff54653e471b38d5b2f1}{%
+           family={Woloshin},
+           familyi={W\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{bae818aef4d20cdc66421f4c43e1c95f}
+      \strng{fullhash}{b3419809e48b86eab32af8794328facf}
+      \strng{bibnamehash}{b3419809e48b86eab32af8794328facf}
+      \strng{authorbibnamehash}{b3419809e48b86eab32af8794328facf}
+      \strng{authornamehash}{bae818aef4d20cdc66421f4c43e1c95f}
+      \strng{authorfullhash}{b3419809e48b86eab32af8794328facf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1529-1006}
+      \field{journaltitle}{Psychological Science in the Public Interest}
+      \field{number}{2}
+      \field{title}{Helping Doctors and Patients Make Sense of Health Statistics}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{53\bibrangedash 96}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1111/j.1539-6053.2008.00033.x
+      \endverb
+    \endentry
     \entry{HannaGila1989}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
@@ -639,6 +908,112 @@
       \endverb
       \keyw{Problem-solving strategies,Drawing,Diagrams,Expert performance,Visual representations,Proof,Reasoning}
     \endentry
+    \entry{Teschendorf09102024}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e2c3882d3bfb01a9808d655b9b62427}{%
+           family={Teschendorf},
+           familyi={T\bibinitperiod},
+           given={Victoria\bibnamedelima Sophie},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{fullhash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{bibnamehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{authorbibnamehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{authornamehash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \strng{authorfullhash}{3e2c3882d3bfb01a9808d655b9b62427}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journalism Practice}
+      \field{number}{0}
+      \field{title}{Understanding COVID-19 Media Framing: Comparative Insights from Germany, the US, and the UK During Omicron}
+      \field{volume}{0}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/17512786.2024.2412832
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/17512786.2024.2412832
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17512786.2024.2412832
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17512786.2024.2412832
+      \endverb
+    \endentry
+    \entry{Tversky1985}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7b5f682b09aad2603bba02704e0f6495}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{bibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorbibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authornamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{editorbibnamehash}{7b5f682b09aad2603bba02704e0f6495}
+      \strng{editornamehash}{7b5f682b09aad2603bba02704e0f6495}
+      \strng{editorfullhash}{7b5f682b09aad2603bba02704e0f6495}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Explanations and predictions of people's choices, in everyday life as well as in the social sciences, are often founded on the assumption of human rationality. The definition of rationality has been much debated, but there is general agreement that rational choices should satisfy some elementary requirements of consistency and coherence. In this chapter, we describe decision problems in which people systematically violate the requirements of consistency and coherence, and we trace these violations to the psychological principles that govern the perception of decision problems and the evaluation of options.}
+      \field{booktitle}{Behavioral Decision Making}
+      \field{isbn}{978-1-4613-2391-4}
+      \field{title}{The Framing of Decisions and the Psychology of Choice}
+      \field{year}{1985}
+      \field{pages}{25\bibrangedash 41}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-1-4613-2391-4_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4613-2391-4_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4613-2391-4_2
+      \endverb
+    \endentry
     \entry{Cambridge_FLT_History}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a75d9e30e891abd776972c07c5ef5224}{%
@@ -715,6 +1090,47 @@
       \endverb
       \verb{url}
       \verb http://www.jstor.org/stable/2775773
+      \endverb
+    \endentry
+    \entry{WuJohn2021RiskCommunication}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a225a07f17aa20c0b77d283b39e82530}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Joseph\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87426dc0f0f901d944a3fcb1ed613c9d}{%
+           family={John},
+           familyi={J\bibinitperiod},
+           given={Stephen\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{fullhash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{bibnamehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{authorbibnamehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{authornamehash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \strng{authorfullhash}{0643b7d7aaf82ef51c195807dfbe474d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0884-8734}
+      \field{journaltitle}{Journal of General Internal Medicine}
+      \field{note}{Editorial}
+      \field{number}{4}
+      \field{title}{The Ethics of COVID-19 Risk Communication}
+      \field{volume}{36}
+      \field{year}{2021}
+      \field{pages}{1092\bibrangedash 1093}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/s11606-021-06600-3
       \endverb
     \endentry
   \enddatalist
