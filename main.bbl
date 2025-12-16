@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{Archer_Cawston_Matheson_Geuskens_2020}{article}{}{}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Archer_Cawston_Matheson_Geuskens_2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=78429a60fc1f1e2edb9abf47c9c52015}{%
            family={Archer},
@@ -48,12 +48,10 @@
       }
       \strng{namehash}{e222cb35280d228b9c748beddcb30ca7}
       \strng{fullhash}{073d71cc355990df67f5a66261a58734}
-      \strng{fullhashraw}{073d71cc355990df67f5a66261a58734}
       \strng{bibnamehash}{073d71cc355990df67f5a66261a58734}
       \strng{authorbibnamehash}{073d71cc355990df67f5a66261a58734}
       \strng{authornamehash}{e222cb35280d228b9c748beddcb30ca7}
       \strng{authorfullhash}{073d71cc355990df67f5a66261a58734}
-      \strng{authorfullhashraw}{073d71cc355990df67f5a66261a58734}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -72,7 +70,7 @@
       \verb 10.1017/S1537592719002615
       \endverb
     \endentry
-    \entry{Bogomolny_Pythagorean}{online}{}{}
+    \entry{Bogomolny_Pythagorean}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a4fa9cf6240e4e5e1fe79f9460087a90}{%
            family={Bogomolny},
@@ -86,12 +84,10 @@
       }
       \strng{namehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{fullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
-      \strng{fullhashraw}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{bibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{authorbibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{authornamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{authorfullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
-      \strng{authorfullhashraw}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labeldatesource}{nodate}
@@ -110,7 +106,7 @@
       \verb https://www.cut-the-knot.org/pythagoras/index.shtml
       \endverb
     \endentry
-    \entry{Boston_FLT_2003}{book}{}{}
+    \entry{Boston_FLT_2003}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bd9261be82fb2e26e6291ecc65fbf0db}{%
            family={Boston},
@@ -124,12 +120,10 @@
       }
       \strng{namehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{fullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
-      \strng{fullhashraw}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{bibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{authorbibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{authornamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{authorfullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
-      \strng{authorfullhashraw}{bd9261be82fb2e26e6291ecc65fbf0db}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -151,7 +145,7 @@
       \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
       \endverb
     \endentry
-    \entry{HannaGila1989}{article}{}{}
+    \entry{HannaGila1989}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
            family={Hanna},
@@ -162,12 +156,10 @@
       }
       \strng{namehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{fullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
-      \strng{fullhashraw}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{bibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{authorbibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{authornamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{authorfullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
-      \strng{authorfullhashraw}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -183,7 +175,7 @@
       \field{pages}{45\bibrangedash 51}
       \range{pages}{7}
     \endentry
-    \entry{Mizrahi2020-MIZPEA}{article}{}{}
+    \entry{Mizrahi2020-MIZPEA}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bf30326782ded4cf34d23fb67e9ed4a4}{%
            family={Mizrahi},
@@ -197,12 +189,10 @@
       }
       \strng{namehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{fullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
-      \strng{fullhashraw}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{bibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{authorbibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{authornamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{authorfullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
-      \strng{authorfullhashraw}{bf30326782ded4cf34d23fb67e9ed4a4}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -221,7 +211,7 @@
       \verb 10.1007/s10838-020-09521-7
       \endverb
     \endentry
-    \entry{nelsen1993proofs}{book}{}{}
+    \entry{nelsen1993proofs}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3832d6cfc8f1202a937a3bbdf8b50e5f}{%
            family={Nelsen},
@@ -235,12 +225,10 @@
       }
       \strng{namehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{fullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
-      \strng{fullhashraw}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{bibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{authorbibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{authornamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{authorfullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
-      \strng{authorfullhashraw}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -259,7 +247,7 @@
       \verb https://books.google.de/books?id=Kx2cjyzTIYkC
       \endverb
     \endentry
-    \entry{STYLIANOU2002303}{article}{}{}
+    \entry{STYLIANOU2002303}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c77bbefab396b66fa8d1563207c5414d}{%
            family={Stylianou},
@@ -270,12 +258,10 @@
       }
       \strng{namehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{fullhash}{c77bbefab396b66fa8d1563207c5414d}
-      \strng{fullhashraw}{c77bbefab396b66fa8d1563207c5414d}
       \strng{bibnamehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{authorbibnamehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{authornamehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{authorfullhash}{c77bbefab396b66fa8d1563207c5414d}
-      \strng{authorfullhashraw}{c77bbefab396b66fa8d1563207c5414d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -303,7 +289,7 @@
       \endverb
       \keyw{Problem-solving strategies,Drawing,Diagrams,Expert performance,Visual representations,Proof,Reasoning}
     \endentry
-    \entry{Cambridge_FLT_History}{online}{}{}
+    \entry{Cambridge_FLT_History}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a75d9e30e891abd776972c07c5ef5224}{%
            family={{University of Cambridge}},
@@ -311,12 +297,10 @@
       }
       \strng{namehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{fullhash}{a75d9e30e891abd776972c07c5ef5224}
-      \strng{fullhashraw}{a75d9e30e891abd776972c07c5ef5224}
       \strng{bibnamehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{authorbibnamehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{authornamehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{authorfullhash}{a75d9e30e891abd776972c07c5ef5224}
-      \strng{authorfullhashraw}{a75d9e30e891abd776972c07c5ef5224}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
@@ -338,7 +322,7 @@
       \verb https://www.maths.cam.ac.uk/features/fermats-last-theorem-history-new-mathematics
       \endverb
     \endentry
-    \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}{}
+    \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=96cc5d3c0e9267bbbe856a1973dd9c97}{%
            family={Wrong},
@@ -352,12 +336,10 @@
       }
       \strng{namehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{fullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
-      \strng{fullhashraw}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{bibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{authorbibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{authornamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{authorfullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
-      \strng{authorfullhashraw}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -386,8 +368,8 @@
       \endverb
     \endentry
   \enddatalist
-  \datalist[entry]{apa/global//global/global/global}
-    \entry{Archer_Cawston_Matheson_Geuskens_2020}{article}{}{}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Archer_Cawston_Matheson_Geuskens_2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=78429a60fc1f1e2edb9abf47c9c52015}{%
            family={Archer},
@@ -416,12 +398,10 @@
       }
       \strng{namehash}{e222cb35280d228b9c748beddcb30ca7}
       \strng{fullhash}{073d71cc355990df67f5a66261a58734}
-      \strng{fullhashraw}{073d71cc355990df67f5a66261a58734}
       \strng{bibnamehash}{073d71cc355990df67f5a66261a58734}
       \strng{authorbibnamehash}{073d71cc355990df67f5a66261a58734}
       \strng{authornamehash}{e222cb35280d228b9c748beddcb30ca7}
       \strng{authorfullhash}{073d71cc355990df67f5a66261a58734}
-      \strng{authorfullhashraw}{073d71cc355990df67f5a66261a58734}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -440,7 +420,7 @@
       \verb 10.1017/S1537592719002615
       \endverb
     \endentry
-    \entry{Bogomolny_Pythagorean}{online}{}{}
+    \entry{Bogomolny_Pythagorean}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a4fa9cf6240e4e5e1fe79f9460087a90}{%
            family={Bogomolny},
@@ -454,12 +434,10 @@
       }
       \strng{namehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{fullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
-      \strng{fullhashraw}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{bibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{authorbibnamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{authornamehash}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \strng{authorfullhash}{a4fa9cf6240e4e5e1fe79f9460087a90}
-      \strng{authorfullhashraw}{a4fa9cf6240e4e5e1fe79f9460087a90}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labeldatesource}{nodate}
@@ -478,7 +456,7 @@
       \verb https://www.cut-the-knot.org/pythagoras/index.shtml
       \endverb
     \endentry
-    \entry{Boston_FLT_2003}{book}{}{}
+    \entry{Boston_FLT_2003}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bd9261be82fb2e26e6291ecc65fbf0db}{%
            family={Boston},
@@ -492,12 +470,10 @@
       }
       \strng{namehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{fullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
-      \strng{fullhashraw}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{bibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{authorbibnamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{authornamehash}{bd9261be82fb2e26e6291ecc65fbf0db}
       \strng{authorfullhash}{bd9261be82fb2e26e6291ecc65fbf0db}
-      \strng{authorfullhashraw}{bd9261be82fb2e26e6291ecc65fbf0db}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -519,7 +495,7 @@
       \verb https://www.researchgate.net/profile/Thong-Nguyen-Quang-Do/post/Are-there-other-pieces-of-information-about-Victory-Road-to-FLT/attachment/5b0ab419b53d2f63c3ce5da8/AS:630893421006850@1527428121602/download/FLT+Boston.pdf
       \endverb
     \endentry
-    \entry{HannaGila1989}{article}{}{}
+    \entry{HannaGila1989}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c36a6aaba31bf181e8be6bc5dd3d63ab}{%
            family={Hanna},
@@ -530,12 +506,10 @@
       }
       \strng{namehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{fullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
-      \strng{fullhashraw}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{bibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{authorbibnamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{authornamehash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \strng{authorfullhash}{c36a6aaba31bf181e8be6bc5dd3d63ab}
-      \strng{authorfullhashraw}{c36a6aaba31bf181e8be6bc5dd3d63ab}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -551,7 +525,7 @@
       \field{pages}{45\bibrangedash 51}
       \range{pages}{7}
     \endentry
-    \entry{Mizrahi2020-MIZPEA}{article}{}{}
+    \entry{Mizrahi2020-MIZPEA}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bf30326782ded4cf34d23fb67e9ed4a4}{%
            family={Mizrahi},
@@ -565,12 +539,10 @@
       }
       \strng{namehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{fullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
-      \strng{fullhashraw}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{bibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{authorbibnamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{authornamehash}{bf30326782ded4cf34d23fb67e9ed4a4}
       \strng{authorfullhash}{bf30326782ded4cf34d23fb67e9ed4a4}
-      \strng{authorfullhashraw}{bf30326782ded4cf34d23fb67e9ed4a4}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -589,7 +561,7 @@
       \verb 10.1007/s10838-020-09521-7
       \endverb
     \endentry
-    \entry{nelsen1993proofs}{book}{}{}
+    \entry{nelsen1993proofs}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3832d6cfc8f1202a937a3bbdf8b50e5f}{%
            family={Nelsen},
@@ -603,12 +575,10 @@
       }
       \strng{namehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{fullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
-      \strng{fullhashraw}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{bibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{authorbibnamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{authornamehash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \strng{authorfullhash}{3832d6cfc8f1202a937a3bbdf8b50e5f}
-      \strng{authorfullhashraw}{3832d6cfc8f1202a937a3bbdf8b50e5f}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -627,7 +597,7 @@
       \verb https://books.google.de/books?id=Kx2cjyzTIYkC
       \endverb
     \endentry
-    \entry{STYLIANOU2002303}{article}{}{}
+    \entry{STYLIANOU2002303}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c77bbefab396b66fa8d1563207c5414d}{%
            family={Stylianou},
@@ -638,12 +608,10 @@
       }
       \strng{namehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{fullhash}{c77bbefab396b66fa8d1563207c5414d}
-      \strng{fullhashraw}{c77bbefab396b66fa8d1563207c5414d}
       \strng{bibnamehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{authorbibnamehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{authornamehash}{c77bbefab396b66fa8d1563207c5414d}
       \strng{authorfullhash}{c77bbefab396b66fa8d1563207c5414d}
-      \strng{authorfullhashraw}{c77bbefab396b66fa8d1563207c5414d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -671,7 +639,7 @@
       \endverb
       \keyw{Problem-solving strategies,Drawing,Diagrams,Expert performance,Visual representations,Proof,Reasoning}
     \endentry
-    \entry{Cambridge_FLT_History}{online}{}{}
+    \entry{Cambridge_FLT_History}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a75d9e30e891abd776972c07c5ef5224}{%
            family={{University of Cambridge}},
@@ -679,12 +647,10 @@
       }
       \strng{namehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{fullhash}{a75d9e30e891abd776972c07c5ef5224}
-      \strng{fullhashraw}{a75d9e30e891abd776972c07c5ef5224}
       \strng{bibnamehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{authorbibnamehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{authornamehash}{a75d9e30e891abd776972c07c5ef5224}
       \strng{authorfullhash}{a75d9e30e891abd776972c07c5ef5224}
-      \strng{authorfullhashraw}{a75d9e30e891abd776972c07c5ef5224}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
@@ -706,7 +672,7 @@
       \verb https://www.maths.cam.ac.uk/features/fermats-last-theorem-history-new-mathematics
       \endverb
     \endentry
-    \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}{}
+    \entry{141269df-8a9c-3d34-add1-77d740470f50}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=96cc5d3c0e9267bbbe856a1973dd9c97}{%
            family={Wrong},
@@ -720,12 +686,10 @@
       }
       \strng{namehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{fullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
-      \strng{fullhashraw}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{bibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{authorbibnamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{authornamehash}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \strng{authorfullhash}{96cc5d3c0e9267bbbe856a1973dd9c97}
-      \strng{authorfullhashraw}{96cc5d3c0e9267bbbe856a1973dd9c97}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
