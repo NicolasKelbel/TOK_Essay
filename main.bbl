@@ -236,6 +236,63 @@
       \field{pages}{45\bibrangedash 51}
       \range{pages}{7}
     \endentry
+    \entry{10.1093/cje/bet075}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e1f11c8d4b74a42d40d83707132342d3}{%
+           family={Herndon},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac32917a876733e4426d2b72fadd8fed}{%
+           family={Ash},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c10d64a2518b72112b54491e6a24582}{%
+           family={Pollin},
+           familyi={P\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d1ab05987e8d565061613d4f68635207}
+      \strng{fullhash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \strng{bibnamehash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \strng{authorbibnamehash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \strng{authornamehash}{d1ab05987e8d565061613d4f68635207}
+      \strng{authorfullhash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We replicate Reinhart and Rogoff (2010A and 2010B) and find that selective exclusion of available data, coding errors and inappropriate weighting of summary statistics lead to serious miscalculations that inaccurately represent the relationship between public debt and GDP growth among 20 advanced economies. Over 1946–2009, countries with public debt/GDP ratios above 90\% averaged 2.2\% real annual GDP growth, not −0.1\% as published. The published results for (i) median GDP growth rates for the 1946–2009 period and (ii) mean and median GDP growth figures over 1790–2009 are all distorted by similar methodological errors, although the magnitudes of the distortions are somewhat smaller than with the mean figures for 1946–2009. Contrary to Reinhart and Rogoff’s broader contentions, both mean and median GDP growth when public debt levels exceed 90\% of GDP are not dramatically different from when the public debt/GDP ratios are lower. The relationship between public debt and GDP growth varies significantly by period and country. Our overall evidence refutes RR’s claim that public debt/GDP ratios above 90\% consistently reduce a country’s GDP growth.}
+      \field{issn}{0309-166X}
+      \field{journaltitle}{Cambridge Journal of Economics}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff}
+      \field{volume}{38}
+      \field{year}{2013}
+      \field{pages}{257\bibrangedash 279}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1093/cje/bet075
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/cje/article-pdf/38/2/257/4790811/bet075.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/cje/bet075
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/cje/bet075
+      \endverb
+    \endentry
     \entry{Mizrahi2020-MIZPEA}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bf30326782ded4cf34d23fb67e9ed4a4}{%
@@ -793,6 +850,63 @@
       \field{year}{1989}
       \field{pages}{45\bibrangedash 51}
       \range{pages}{7}
+    \endentry
+    \entry{10.1093/cje/bet075}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e1f11c8d4b74a42d40d83707132342d3}{%
+           family={Herndon},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac32917a876733e4426d2b72fadd8fed}{%
+           family={Ash},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c10d64a2518b72112b54491e6a24582}{%
+           family={Pollin},
+           familyi={P\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d1ab05987e8d565061613d4f68635207}
+      \strng{fullhash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \strng{bibnamehash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \strng{authorbibnamehash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \strng{authornamehash}{d1ab05987e8d565061613d4f68635207}
+      \strng{authorfullhash}{7cb94ffecb9866ea991ffda7ba1bac52}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We replicate Reinhart and Rogoff (2010A and 2010B) and find that selective exclusion of available data, coding errors and inappropriate weighting of summary statistics lead to serious miscalculations that inaccurately represent the relationship between public debt and GDP growth among 20 advanced economies. Over 1946–2009, countries with public debt/GDP ratios above 90\% averaged 2.2\% real annual GDP growth, not −0.1\% as published. The published results for (i) median GDP growth rates for the 1946–2009 period and (ii) mean and median GDP growth figures over 1790–2009 are all distorted by similar methodological errors, although the magnitudes of the distortions are somewhat smaller than with the mean figures for 1946–2009. Contrary to Reinhart and Rogoff’s broader contentions, both mean and median GDP growth when public debt levels exceed 90\% of GDP are not dramatically different from when the public debt/GDP ratios are lower. The relationship between public debt and GDP growth varies significantly by period and country. Our overall evidence refutes RR’s claim that public debt/GDP ratios above 90\% consistently reduce a country’s GDP growth.}
+      \field{issn}{0309-166X}
+      \field{journaltitle}{Cambridge Journal of Economics}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff}
+      \field{volume}{38}
+      \field{year}{2013}
+      \field{pages}{257\bibrangedash 279}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1093/cje/bet075
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/cje/article-pdf/38/2/257/4790811/bet075.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/cje/bet075
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/cje/bet075
+      \endverb
     \endentry
     \entry{Mizrahi2020-MIZPEA}{article}{}
       \name{author}{1}{}{%
